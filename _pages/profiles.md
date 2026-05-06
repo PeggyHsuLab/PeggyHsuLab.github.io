@@ -9,9 +9,9 @@ nav_order: 2
 <!-- ========== PI ========== -->
 <div class="row mt-4 mb-5 align-items-center">
   <div class="col-sm-4 text-center mb-3 mb-sm-0">
-    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/Peggy.jpg' | relative_url }}"
          class="img-fluid rounded"
-         style="max-width: 280px; width: 100%;"
+         style="max-width: 220px; width: 100%;"
          alt="Peggy P. Hsu">
   </div>
   <div class="col-sm-8">
@@ -29,9 +29,9 @@ nav_order: 2
 <!-- Postdoc: full row -->
 <div class="row mt-4 mb-4 align-items-center">
   <div class="col-sm-2 text-center mb-3 mb-sm-0">
-    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/Yusoo.JPEG' | relative_url }}"
          class="img-fluid rounded-circle"
-         style="max-width: 110px; width: 100%;"
+         style="max-width: 130px; width: 100%;"
          alt="Yusoo Lee">
   </div>
   <div class="col-sm-10">
@@ -45,9 +45,9 @@ nav_order: 2
 
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
-      <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+      <img src="{{ '/assets/img/Xiangning.JPG' | relative_url }}"
            class="rounded-circle flex-shrink-0"
-           style="width:80px; height:80px; object-fit:cover; margin-right:1rem;"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
            alt="Xiangning Dong">
       <div>
         <h6 class="mb-1">Xiangning Dong, M.S.</h6>
@@ -58,9 +58,9 @@ nav_order: 2
 
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
-      <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+      <img src="{{ '/assets/img/Varun.png' | relative_url }}"
            class="rounded-circle flex-shrink-0"
-           style="width:80px; height:80px; object-fit:cover; margin-right:1rem;"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
            alt="Varun Ponnusamy">
       <div>
         <h6 class="mb-1">Varun Ponnusamy</h6>
@@ -71,9 +71,22 @@ nav_order: 2
 
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
-      <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+      <img src="{{ '/assets/img/Charlotte.jpg' | relative_url }}"
            class="rounded-circle flex-shrink-0"
-           style="width:80px; height:80px; object-fit:cover; margin-right:1rem;"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Charlotte Clark-Slakey">
+      <div>
+        <h6 class="mb-1">Charlotte Clark-Slakey</h6>
+        <p class="text-muted mb-0">Laboratory Technician</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Emma.jpg' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
            alt="Emma Niestroy">
       <div>
         <h6 class="mb-1">Emma Niestroy</h6>
