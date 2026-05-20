@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lab members
+title: Lab Members
 permalink: /people/
 nav: true
 nav_order: 2
@@ -26,22 +26,21 @@ nav_order: 2
 
 ## Current Members
 
-<!-- Postdoc: full row -->
-<div class="row mt-4 mb-4 align-items-center">
-  <div class="col-sm-2 text-center mb-3 mb-sm-0">
-    <img src="{{ '/assets/img/Yusoo.JPEG' | relative_url }}"
-         class="img-fluid rounded-circle"
-         style="max-width: 130px; width: 100%;"
-         alt="Yusoo Lee">
-  </div>
-  <div class="col-sm-10">
-    <h5 class="mb-1">Yusoo Lee, Ph.D.</h5>
-    <p class="text-muted mb-0">Postdoctoral Fellow</p>
-  </div>
-</div>
-
 <!-- Others: two per row -->
 <div class="row mt-2">
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Yusoo.JPEG' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Yusoo Lee">
+      <div>
+        <h6 class="mb-1">Yusoo Lee, Ph.D.</h6>
+        <p class="text-muted mb-0">Postdoctoral Fellow</p>
+      </div>
+    </div>
+  </div>
 
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
@@ -90,6 +89,19 @@ nav_order: 2
            alt="Emma Niestroy">
       <div>
         <h6 class="mb-1">Emma Niestroy</h6>
+        <p class="text-muted mb-0">Undergraduate Research Assistant</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Annie.jpg' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Annie Chang">
+      <div>
+        <h6 class="mb-1">Annie Chang</h6>
         <p class="text-muted mb-0">Undergraduate Research Assistant</p>
       </div>
     </div>

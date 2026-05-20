@@ -1,9 +1,9 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /contact/
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 We are located at [Institution Name], [Department Name].
