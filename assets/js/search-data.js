@@ -3,42 +3,49 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "Our research focuses on lung development and ALK-driven lung adenocarcinoma.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-lab-members",
-          title: "lab members",
+          title: "Lab Members",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
+        },{id: "nav-lab-life",
+          title: "Lab Life",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/lab-life/";
+          },
         },{id: "nav-contact",
-          title: "contact",
+          title: "Contact",
           description: "",
           section: "Navigation",
           handler: () => {
