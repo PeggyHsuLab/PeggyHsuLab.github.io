@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Our research focuses on lung development and ALK-driven lung adenocarcinoma.
 nav: true

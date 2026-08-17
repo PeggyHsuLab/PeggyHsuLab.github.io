@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lab members
+title: Lab Members
 permalink: /people/
 nav: true
 nav_order: 2
@@ -26,48 +26,36 @@ nav_order: 2
 
 ## Current Members
 
-<!-- Postdoc: full row -->
-<div class="row mt-4 mb-4 align-items-center">
-  <div class="col-sm-2 text-center mb-3 mb-sm-0">
-    <img src="{{ '/assets/img/Yusoo.JPEG' | relative_url }}"
-         class="img-fluid rounded-circle"
-         style="max-width: 130px; width: 100%;"
-         alt="Yusoo Lee">
-  </div>
-  <div class="col-sm-10">
-    <h5 class="mb-1">Yusoo Lee, Ph.D.</h5>
-    <p class="text-muted mb-0">Postdoctoral Fellow</p>
-  </div>
-</div>
-
 <!-- Others: two per row -->
 <div class="row mt-2">
 
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
-      <img src="{{ '/assets/img/Xiangning.JPG' | relative_url }}"
+      <img src="{{ '/assets/img/Yusoo.JPEG' | relative_url }}"
            class="rounded-circle flex-shrink-0"
            style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
-           alt="Xiangning Dong">
+           alt="Yusoo Lee">
       <div>
-        <h6 class="mb-1">Xiangning Dong, M.S.</h6>
+        <h6 class="mb-1">Yusoo Lee, Ph.D.</h6>
+        <p class="text-muted mb-0">Postdoctoral Fellow</p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Alena.jpg' | relative_url }}"
+          class="rounded-circle flex-shrink-0"
+          style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+          alt="Jiayin (Alena) Zheng">
+      <div>
+        <h6 class="mb-1">Jiayin (Alena) Zheng, M.S.</h6>
         <p class="text-muted mb-0">Associate Bioinformatician</p>
       </div>
     </div>
   </div>
 
-  <div class="col-sm-6 mb-4">
-    <div class="d-flex align-items-center">
-      <img src="{{ '/assets/img/Varun.png' | relative_url }}"
-           class="rounded-circle flex-shrink-0"
-           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
-           alt="Varun Ponnusamy">
-      <div>
-        <h6 class="mb-1">Varun Ponnusamy</h6>
-        <p class="text-muted mb-0">Laboratory Technician</p>
-      </div>
-    </div>
-  </div>
 
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
@@ -95,6 +83,19 @@ nav_order: 2
     </div>
   </div>
 
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Annie.jpg' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Annie Chang">
+      <div>
+        <h6 class="mb-1">Annie Chang</h6>
+        <p class="text-muted mb-0">Undergraduate Research Assistant</p>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <hr class="my-4">
@@ -116,6 +117,8 @@ nav_order: 2
 ## Alumni
 
 <ul class="mt-3">
+  <li>Xiangning Dong, M.S.</li>
+  <li>Varun Ponnusamy, B.S.</li>
   <li>Ling M. Yang, M.S.</li>
   <li>Lila Tudrick, B.S.</li>
   <li>Michael Downey, B.A.</li>
