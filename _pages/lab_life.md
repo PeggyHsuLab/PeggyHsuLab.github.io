@@ -3,7 +3,7 @@ layout: page
 title: Lab Life
 permalink: /lab-life/
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <hr class="mt-0 mb-4">

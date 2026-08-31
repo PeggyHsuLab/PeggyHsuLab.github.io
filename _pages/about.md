@@ -21,6 +21,12 @@ latest_posts:
   enabled: false
 ---
 
+<div class="text-start" style="margin-top: -1.5rem; margin-bottom: 0.5rem;">
+  <img src="{{ '/assets/img/um_med_logo.png' | relative_url }}"
+       style="max-width: 200px; width: 100%; margin-left: 0;"
+       alt="University of Michigan Medicine logo">
+</div>
+
 <div class="text-center my-4">
   <img src="{{ '/assets/img/lab_photo_060126.png' | relative_url }}"
        class="img-fluid rounded"

@@ -18,7 +18,7 @@ nav_order: 2
     <h3 class="mb-1">Peggy P. Hsu, M.D., Ph.D.</h3>
     <p class="mb-1" style="font-size:1.05rem;">Principal Investigator</p>
     <p class="text-muted mb-3">Assistant Professor · University of Michigan</p>
-    <p>[Bio placeholder — a few sentences about research focus and background.]</p>
+    <p><a href="https://x.com/PeggyPHsu" target="_blank" rel="noopener noreferrer">@PeggyPHsu</a></p>
   </div>
 </div>
 
@@ -114,11 +114,84 @@ nav_order: 2
 
 ## Alumni
 
-<ul class="mt-3">
-  <li>Xiangning Dong, M.S.</li>
-  <li>Varun Ponnusamy, B.S.</li>
-  <li>Ling M. Yang, M.S.</li>
-  <li>Lila Tudrick, B.S.</li>
-  <li>Michael Downey, B.A.</li>
-  <li>Abhinav Anand, B.Sc.</li>
-</ul>
+<div class="row mt-2">
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Xiangning.jpg' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Xiangning Dong">
+      <div>
+        <h6 class="mb-1">Xiangning Dong, M.S.</h6>
+        <p class="text-muted mb-0">in-coming Northwestern University Graduate Student</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Varun.png' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Varun Ponnusamy">
+      <div>
+        <h6 class="mb-1">Varun Ponnusamy, B.S.</h6>
+        <p class="text-muted mb-0">in-coming Yale MD/PhD MSTP Student</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Ling.png' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Ling M. Yang">
+      <div>
+        <h6 class="mb-1">Ling M. Yang, M.S.</h6>
+        <p class="text-muted mb-0">in-coming Washington University in St. Louis Graduate Student</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Lila.png' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Lila Tudrick">
+      <div>
+        <h6 class="mb-1">Lila Tudrick, B.S.</h6>
+        <p class="text-muted mb-0">Wayne State University School of Medicine Student</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Michael.png' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Michael Downey">
+      <div>
+        <h6 class="mb-1">Michael Downey, B.A.</h6>
+        <p class="text-muted mb-0">Weill Cornell Immunology Graduate Student</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="d-flex align-items-center">
+      <img src="{{ '/assets/img/Abhinav.png' | relative_url }}"
+           class="rounded-circle flex-shrink-0"
+           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           alt="Abhinav Anand">
+      <div>
+        <h6 class="mb-1">Abhinav Anand, B.Sc.</h6>
+        <p class="text-muted mb-0">South Dakota Sanford School of Medicine MD/PhD Student</p>
+      </div>
+    </div>
+  </div>
+
+</div>
