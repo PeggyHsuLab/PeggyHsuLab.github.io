@@ -42,7 +42,6 @@ nav_order: 2
     </div>
   </div>
 
-
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
       <img src="{{ '/assets/img/Alena.jpg' | relative_url }}"
@@ -55,7 +54,6 @@ nav_order: 2
       </div>
     </div>
   </div>
-
 
   <div class="col-sm-6 mb-4">
     <div class="d-flex align-items-center">
