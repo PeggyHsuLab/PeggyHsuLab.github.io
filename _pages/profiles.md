@@ -120,11 +120,11 @@ nav_order: 2
     <div class="d-flex align-items-center">
       <img src="{{ '/assets/img/Xiangning.jpg' | relative_url }}"
            class="rounded-circle flex-shrink-0"
-           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           style="width:100px; height:100px; object-fit:cover; object-position: center 25%; margin-right:1rem;"
            alt="Xiangning Dong">
       <div>
         <h6 class="mb-1">Xiangning Dong, M.S.</h6>
-        <p class="text-muted mb-0">in-coming Northwestern University Graduate Student</p>
+        <p class="text-muted mb-0">In-coming Northwestern University Graduate Student</p>
       </div>
     </div>
   </div>
@@ -133,11 +133,11 @@ nav_order: 2
     <div class="d-flex align-items-center">
       <img src="{{ '/assets/img/Varun.png' | relative_url }}"
            class="rounded-circle flex-shrink-0"
-           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           style="width:100px; height:100px; object-fit:cover; object-position: center 25%; margin-right:1rem;"
            alt="Varun Ponnusamy">
       <div>
         <h6 class="mb-1">Varun Ponnusamy, B.S.</h6>
-        <p class="text-muted mb-0">in-coming Yale MD/PhD MSTP Student</p>
+        <p class="text-muted mb-0">In-coming Yale MD/PhD MSTP Student</p>
       </div>
     </div>
   </div>
@@ -150,7 +150,7 @@ nav_order: 2
            alt="Ling M. Yang">
       <div>
         <h6 class="mb-1">Ling M. Yang, M.S.</h6>
-        <p class="text-muted mb-0">in-coming Washington University in St. Louis Graduate Student</p>
+        <p class="text-muted mb-0">In-coming Washington University in St. Louis Graduate Student</p>
       </div>
     </div>
   </div>
@@ -185,7 +185,7 @@ nav_order: 2
     <div class="d-flex align-items-center">
       <img src="{{ '/assets/img/Abhinav.png' | relative_url }}"
            class="rounded-circle flex-shrink-0"
-           style="width:100px; height:100px; object-fit:cover; margin-right:1rem;"
+           style="width:100px; height:100px; object-fit:cover; object-position: center 100%; margin-right:1rem;"
            alt="Abhinav Anand">
       <div>
         <h6 class="mb-1">Abhinav Anand, B.Sc.</h6>
