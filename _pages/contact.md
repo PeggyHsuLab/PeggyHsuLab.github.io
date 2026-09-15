@@ -15,6 +15,6 @@ Biomedical Sciences Research Building 2058B
 
 **Email**
 
-For general inquiries: the-hsu-lab@umich.edu
+For general inquiries: hsupe@med.umich.edu
 
 Prospective students and postdocs, please reach out to us.
