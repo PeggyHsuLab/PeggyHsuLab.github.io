@@ -71,6 +71,8 @@
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
+    padding-bottom: 6px;
+    border-bottom: 2px solid #FFCB05;
 
     &:hover {
       color: var(--global-hover-color);
