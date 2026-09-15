@@ -124,7 +124,7 @@ nav_order: 2
            alt="Xiangning Dong">
       <div>
         <h6 class="mb-1">Xiangning Dong, M.S.</h6>
-        <p class="text-muted mb-0">In-coming Northwestern University Graduate Student</p>
+        <p class="text-muted mb-0">Northwestern University Graduate Student</p>
       </div>
     </div>
   </div>
@@ -137,7 +137,7 @@ nav_order: 2
            alt="Varun Ponnusamy">
       <div>
         <h6 class="mb-1">Varun Ponnusamy, B.S.</h6>
-        <p class="text-muted mb-0">In-coming Yale MD/PhD MSTP Student</p>
+        <p class="text-muted mb-0">Yale MD/PhD MSTP Student</p>
       </div>
     </div>
   </div>
@@ -150,7 +150,7 @@ nav_order: 2
            alt="Ling M. Yang">
       <div>
         <h6 class="mb-1">Ling M. Yang, M.S.</h6>
-        <p class="text-muted mb-0">In-coming Washington University in St. Louis Graduate Student</p>
+        <p class="text-muted mb-0">Washington University in St. Louis Graduate Student</p>
       </div>
     </div>
   </div>
